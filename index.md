@@ -1,4 +1,4 @@
-## Welcome to MWP Pages
+## Welcome to MWP!
 
 You can use the [editor on GitHub](https://github.com/MWPshare/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
