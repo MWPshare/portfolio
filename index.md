@@ -1,6 +1,6 @@
 ## Welcome to MWP!
 
-# Header 1 BIO
+# BIO
 ##PROJECTS
 - Responsive site
 - CMS site
