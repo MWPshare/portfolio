@@ -1,10 +1,12 @@
 ## Welcome to MWP!
 
 # BIO
-##PROJECTS
+
+# PROJECTS
 - Responsive site
 - CMS site
 - Webmarketing
 - Social Media
 - Project management
-##CONTACTS
+
+# CONTACTS
