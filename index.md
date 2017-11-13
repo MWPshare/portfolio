@@ -6,9 +6,10 @@
 	<h2> Test</h2>
 	
 </body>
+</html>
 <style>
 	body {
 	background color: #fffbe9;
 	}
-	</style>
-</html>
+</style>
+
