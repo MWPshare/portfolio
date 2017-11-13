@@ -1,6 +1,7 @@
 
 <html>
 <title> MWP Portfolio</title>
+	<img src="images/
 <body>
 	
 	<h1> Test</h1>
