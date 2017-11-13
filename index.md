@@ -8,7 +8,7 @@
 	
 	<h2>Site responsive <a href="http://msacilotto.iesanetwork.fr/shareli">ShareLi</a></h2> 
 	
-	<img src="images/Responsive.png" width="100" height="100">
+	<img src="images/Responsive.png" width="50" height="50">
 	
 	
 </body>
