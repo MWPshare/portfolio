@@ -8,9 +8,9 @@
 </body>
 </html>
 <style>
-	body {
-	 background-color: #fffbe9;
-	color: 
+	body{
+	background-color: #fff;
+	color: #76787c;
 	}
 </style>
 
