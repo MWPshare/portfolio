@@ -1,5 +1,5 @@
 
-<html lang="fr">
+<html>
 <title> MWP Portfolio</title>
 <body>
 	<h1> Test</h1>
