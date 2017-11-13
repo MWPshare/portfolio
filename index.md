@@ -6,11 +6,10 @@
 	<h2> Test</h2>
 	
 </body>
-</html>
-<style>
-	body{
-	background-color: black;
-	color: #76787c;
-	}
-</style>
 
+<style>
+body{background-color: black;
+		color: #76787c;
+		}
+</style>
+</html>
