@@ -1,20 +1,14 @@
 
 <html lang="fr">
-<head>
-	<meta charset="utf-8">
-	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title> MWP Portfolio</title>
-	<meta name="description" content="Portfolio pour le MWP">
-    </head>
-	<title> MWP Portfolio</title>
+<title> MWP Portfolio</title>
 <body>
-	<h1> </h1>
-	<h2> </h2>
+	<h1> Test</h1>
+	<h2> Test</h2>
 	
 </body>
 <style>
-	body{
+	body {
 	background color: #fffbe9;
+	}
 	</style>
 </html>
