@@ -7,8 +7,9 @@
 	<h1> Développement web </h1>
 	
 	<h2>Site responsive </h2> 
-	<img src="images/Responsive.png">
 	<a href="http://msacilotto.iesanetwork.fr/shareli">ShareLi</a>
+	<img src="images/Responsive.png">
+	
 	
 </body>
 
