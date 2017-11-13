@@ -8,8 +8,8 @@
 </body>
 
 <style>
-body{background-color: black;
-		color: #76787c;
+body{background-color: #fffbe9;
+		color: #696469;
 		}
 </style>
 </html>
