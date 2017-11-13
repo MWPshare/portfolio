@@ -9,7 +9,12 @@
     </head>
 	<title> MWP Portfolio</title>
 <body>
-	
+	<h1> </h1>
+	<h2> </h2>
 	
 </body>
+<style>
+	body{
+	background color: #fffbe9;
+	</style>
 </html>
