@@ -10,7 +10,7 @@
 	<h2><img src="images/charmhotels-moodboard.png" width="100"> Site CMS <a href="http://charmhotels.iesanetwork.fr">Charm'Hotels</a></h2> 
 	
 	<h1> Gestion de projet </h1>
-	<h2><img src="images/charmhotels-moodboard.png" width="100"> Site CMS <a href="http://charmhotels.iesanetwork.fr">Charm'Hotels</a></h2> 
+	<h2><img src="images/st-moodboard.png" width="100"> CDCF <a href="http://msacilotto.iesanetwork.fr/sgprez.pdf">Projet immersive</a></h2> 
 	
 	
 </body>
