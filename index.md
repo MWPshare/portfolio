@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
 	<meta charset="utf-8">
 	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Charm'Hotels, sélection des meilleurs hotels de Paris</title>
-	<meta name="description" content="Charm'Hotels, les meilleurs et les plus beaux hotels de charme, romantiques à Paris">
+	<title>MWP Portfolio</title>
+	<meta name="description" content="Portfolio pour le MWP">
     </head>
 <body>
 	<div id="header">
