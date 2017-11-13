@@ -4,9 +4,9 @@
 	<img src="images/mwp-fb-cover.png">
 <body>
 	
-	<h1> <img src="images/Responsive.png" width="100">Développement web </h1>
+	<h1> Développement web </h1>
 	
-	<h2>Site responsive <a href="http://msacilotto.iesanetwork.fr/shareli">ShareLi</a></h2> 
+	<h2><img src="images/Responsive.png" width="100">Site responsive <a href="http://msacilotto.iesanetwork.fr/shareli">ShareLi</a></h2> 
 	
 	<img src="images/Responsive.png" width="100">
 	
