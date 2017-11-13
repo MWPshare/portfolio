@@ -1,7 +1,7 @@
 
 <html>
 <title> MWP Portfolio</title>
-	<img src="images/
+	<img src="images/mwp-fb-cover.png">
 <body>
 	
 	<h1> Test</h1>
