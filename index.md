@@ -13,8 +13,10 @@
 	<h1> Gestion de projet </h1>
 	<h2><img src="images/gestion.png" width="200"> CDCF <a href="doc/CDCF ST.pdf">Cahier des Charges Fonctionnel</a></h2> 
 	
-	
-	
+	<h1> Community Management </h1>
+	<h2><img src="images/chocolat.png" width="200"> Stratégie de communication <a href="doc/lindt.pdf">Lindt</a></h2>
+	<h1> Webmarketing </h1>
+	<h2><img src="images/xhelio.png" width="200"> Stratégie de webmarketing <a href="doc/lindt.pdf">XHelio</a></h2>
 </body>
 
 <style>
