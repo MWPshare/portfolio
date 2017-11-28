@@ -28,5 +28,8 @@ body{
 	font-weight: 400;
 	position:relative;
 		}
+	h1{
+	color: black;
+	}
 </style>
 </html>
