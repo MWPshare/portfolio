@@ -12,7 +12,7 @@
 	
 	<h1> Gestion de projet </h1>
 	<h2><img src="images/st-moodboard.png" width="100"> CDCF <a href="http://msacilotto.iesanetwork.fr/sgprez.pdf">Projet immersive</a></h2> 
-	<a href="link" target="doc/CDCF ST.pdf">Cahier des Charges Fonctionnel</a>
+	<a href="doc/CDCF ST.pdf">Cahier des Charges Fonctionnel</a>
 	
 	
 </body>
