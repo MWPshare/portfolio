@@ -12,7 +12,7 @@
 	
 	<h1> Gestion de projet </h1>
 	<h2><img src="images/gestion.png" width="200"> CDCF <a href="doc/CDCF ST.pdf">Cahier des Charges Fonctionnel</a></h2> 
-	<a href="doc/CDCF ST.pdf">Cahier des Charges Fonctionnel</a>
+	
 	
 	
 </body>
