@@ -14,7 +14,7 @@
 	<h1> Webmarketing </h1>
 	<h2><img src="images/xhelio.png" width="200"> Stratégie de webmarketing <a href="doc/webmarketing.pdf"> XHelio (voir le doc)</a></h2>
 	<h1> Accessibilité </h1>
-	<h2><img src="images/web.png" width="200"> Accessibilité. WCAG. RGAA <a href="doc/accessibilite.pdf"> Note de cadrage (voir le doc)</a></h2>
+	<h2><img src="images/web.png" width="200"> Accessibilité. WCAG. RGAA <a href="doc/Accessibilite.pdf"> Note de cadrage (voir le doc)</a></h2>
 </body>
 
 <style>
