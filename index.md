@@ -23,7 +23,7 @@ body{
 	font-height: 1.5em;
 	font-weight: 400;
 	position:relative;
-		}
+}
 h1{
 	color: black;
 }
